@@ -1,0 +1,114 @@
+DEBUG 2018-10-11 10:59:59,808 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-10-11 10:59:59,822 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2018-10-11 10:59:59,828 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.Web.BottomWebModule, Bottom.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,830 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,830 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,832 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,832 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,832 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomDataModule, Bottom.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,833 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,833 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,833 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomCoreModule, Bottom.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,833 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomApplicationModule, Bottom.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,833 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomWebApiModule, Bottom.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,834 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 10:59:59,837 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2018-10-11 11:00:47,750 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-10-11 11:00:47,764 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2018-10-11 11:00:47,771 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.Web.BottomWebModule, Bottom.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,773 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,773 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,773 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,773 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,773 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomDataModule, Bottom.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomCoreModule, Bottom.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomApplicationModule, Bottom.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomWebApiModule, Bottom.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:47,777 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2018-10-11 11:00:48,102 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Bottom.EntityFramework.BottomDbContext, Bottom.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:00:49,916 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-10-11 11:00:49,989 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-10-11 11:00:49,997 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-10-11 11:00:50,152 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Top
+DEBUG 2018-10-11 11:00:50,290 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-10-11 11:01:37,347 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-10-11 11:01:37,359 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2018-10-11 11:01:37,367 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.Web.BottomWebModule, Bottom.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomDataModule, Bottom.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomCoreModule, Bottom.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomApplicationModule, Bottom.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomWebApiModule, Bottom.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:37,374 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2018-10-11 11:01:37,683 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Bottom.EntityFramework.BottomDbContext, Bottom.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:01:39,523 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-10-11 11:01:39,578 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-10-11 11:01:39,606 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-10-11 11:01:39,773 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Top
+DEBUG 2018-10-11 11:01:39,934 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2018-10-11 11:01:43,371 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Middle_Hello' in localization source 'Top'!
+WARN  2018-10-11 11:01:43,375 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Bottom_Hello' in localization source 'Top'!
+WARN  2018-10-11 11:01:43,376 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'WelcomeMessage' in localization source 'Top'!
+WARN  2018-10-11 11:01:43,376 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Home_ThisIsATemplate' in localization source 'Top'!
+WARN  2018-10-11 11:01:43,376 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Home_AspNetDescription' in localization source 'Top'!
+WARN  2018-10-11 11:01:43,376 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'LearnMore' in localization source 'Top'!
+WARN  2018-10-11 11:01:43,376 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Home_AspNetBoilerplateDescription' in localization source 'Top'!
+WARN  2018-10-11 11:01:43,376 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'LearnMore' in localization source 'Top'!
+WARN  2018-10-11 11:01:43,376 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Others' in localization source 'Top'!
+WARN  2018-10-11 11:01:43,376 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Home_OtherTools' in localization source 'Top'!
+WARN  2018-10-11 11:01:45,503 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'HomePage' in localization source 'Top'!
+WARN  2018-10-11 11:01:45,503 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'About' in localization source 'Top'!
+WARN  2018-10-11 11:01:47,604 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'HomePage' in localization source 'Top'!
+WARN  2018-10-11 11:01:47,604 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'About' in localization source 'Top'!
+WARN  2018-10-11 11:01:47,645 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-10-11 11:01:47,677 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-10-11 11:02:31,473 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-10-11 11:02:31,486 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2018-10-11 11:02:31,493 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.Web.BottomWebModule, Bottom.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,495 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,495 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,495 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,495 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,495 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomDataModule, Bottom.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,496 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,496 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,496 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomCoreModule, Bottom.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,496 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomApplicationModule, Bottom.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,497 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Bottom.BottomWebApiModule, Bottom.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,497 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:31,500 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2018-10-11 11:02:31,811 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Bottom.EntityFramework.BottomDbContext, Bottom.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-11 11:02:33,606 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-10-11 11:02:33,664 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-10-11 11:02:33,673 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-10-11 11:02:33,868 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Top
+DEBUG 2018-10-11 11:02:34,002 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2018-10-11 11:02:37,516 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Middle_Hello' in localization source 'Top'!
+WARN  2018-10-11 11:02:37,520 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'WelcomeMessage' in localization source 'Top'!
+WARN  2018-10-11 11:02:37,521 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Home_ThisIsATemplate' in localization source 'Top'!
+WARN  2018-10-11 11:02:37,521 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Home_AspNetDescription' in localization source 'Top'!
+WARN  2018-10-11 11:02:37,521 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'LearnMore' in localization source 'Top'!
+WARN  2018-10-11 11:02:37,521 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Home_AspNetBoilerplateDescription' in localization source 'Top'!
+WARN  2018-10-11 11:02:37,521 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'LearnMore' in localization source 'Top'!
+WARN  2018-10-11 11:02:37,521 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Others' in localization source 'Top'!
+WARN  2018-10-11 11:02:37,521 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Home_OtherTools' in localization source 'Top'!
+WARN  2018-10-11 11:02:39,532 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'HomePage' in localization source 'Top'!
+WARN  2018-10-11 11:02:39,532 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'About' in localization source 'Top'!
+WARN  2018-10-11 11:02:42,284 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'HomePage' in localization source 'Top'!
+WARN  2018-10-11 11:02:42,284 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'About' in localization source 'Top'!
+WARN  2018-10-11 11:02:42,343 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-10-11 11:02:42,380 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-10-11 11:04:30,874 [13   ] naries.DictionaryBasedLocalizationSource - Can not find 'Middle_Hello' in localization source 'Top'!
+WARN  2018-10-11 11:04:30,877 [13   ] naries.DictionaryBasedLocalizationSource - Can not find 'HomePage' in localization source 'Top'!
+WARN  2018-10-11 11:04:30,877 [13   ] naries.DictionaryBasedLocalizationSource - Can not find 'About' in localization source 'Top'!
+WARN  2018-10-11 11:04:30,915 [15   ] naries.DictionaryBasedLocalizationSource - Can not find 'HomePage' in localization source 'Top'!
+WARN  2018-10-11 11:04:30,915 [15   ] naries.DictionaryBasedLocalizationSource - Can not find 'About' in localization source 'Top'!
